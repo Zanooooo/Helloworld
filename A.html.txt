@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> A.html</title>
+  </head>
+  <body>
+    <h1>Hello!World</h1>
+    <p>Learn about your world!.(only here) </p>
+    <br>
+    <hr>
+    <h2>Earth</h2>
+    <p> Earth is our home planet. Scientists believe Earth and  its moon formed around the same time as the rest of the solar system.</p>
+    <ul>
+      <h2> 10 Earth facts</h2>
+      <li> Earth isn’t actually round</li>
+      <li> Coral reefs are Earth’s largest living structure</li> 
+      <li> Earth has a squishy interior</li>
+      <li> Antarctica is home to the largest ice sheet on Earth</li>
+      <li> The Moon is drifting away from Earth</li>
+      <li>  Atacama is the driest place on Earth</li>
+      <li> Earth’s magnetic pole is creeping westward</li>
+      <li> Europe is the second smallest continent in size but the third largest in population</li>
+      <li> Tibetan plateau is Earth’s ‘third pole’</li>
+      <li>  Trees are breathers</li>
+      </ul>
+    <hr>
+    <h2>What is the real name of Earth?</h2>
+    <p>It is a common misconception that “Terra” is the internationally-recognized scientific name of the planet, but in reality Earth does not have an official international name. The standard English name of the planet, including in science, is “Earth”.</p>
+    <img src="images-(72).jpg"alt="earth"/>
+    <h2>Why is the earth called?</h2>
+     <p> All of the planets, except for Earth, were named after Greek and Roman gods and godesses. The name Earth is an English/German name which simply means the ground. It comes from the Old English words 'eor(th)e' and 'ertha'.</p>
+    <h2>What was Earth first called?</h2>
+    <p>Similarly, the names Mother Earth and Mother Nature have roots in Greek mythology. Gaia was the Greek goddess of Earth who the ancient greeks believed "gave birth" to nature as she was the origin of all life. The Roman equivalent of Gaia was Terra Mater.</p>
+    <h2>What is Earth made of?</h2>
+     <p> The earth is made up of three different layers: the crust, the mantle and the core. This is the outside layer of the earth and is made of solid rock, mostly basalt and granite. There are two types of crust; oceanic and continental. Oceanic crust is denser and thinner and mainly composed of basalt.</p>
+    <img alt="layers" src="images-(73).jpg"/>
+  </body>
+</html>
